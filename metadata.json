@@ -1,0 +1,6 @@
+{
+  "name": "Last Land",
+  "description": "3D Battle Royale survival game with 120 Country Flag Outfits, shrinking safe zone, and Indian-inspired maps.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
